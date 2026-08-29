@@ -1,0 +1,12 @@
+{
+    "object": {
+        "name": "John Doe",
+        "age": 30,
+        "email": "john.doe@example.com"
+    },
+    "array": [
+        "apple",
+        "banana",
+        "cherry"
+    ]
+}
